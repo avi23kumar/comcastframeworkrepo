@@ -34,6 +34,7 @@ private WebElement morelink;
 private WebElement adminimg;
 @FindBy(xpath ="//a[@href='index.php?module=Users&action=Logout']")
 private WebElement logout1;
+asdfgvhbj
 
 
 public WebElement getAdminimg() {
